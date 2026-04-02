@@ -22,10 +22,10 @@ Web uygulama güvenliği testleri için hazırlanmış, çeşitli saldırı vekt
 
 ## Önemli Uyarı
 
-&gt; Bu payload'lar yalnızca yasal ve etik sınırlar içinde kullanılmalıdır:
-&gt; 
-&gt; - Kendi uygulamalarınızda test yapın
-&gt; - İzin aldığınız sistemlerde kullanın
-&gt; - Eğitim ve araştırma amaçlı değerlendirin
-&gt; - İzinsiz sistemlere saldırmayın
-&gt; - Kötüye kullanımdan sorumluluk size aittir
+> **Bu payload'lar yalnızca yasal ve etik sınırlar içinde kullanılmalıdır:**
+> 
+> - ✅ Kendi uygulamalarınızda test yapın
+> - ✅ İzin aldığınız sistemlerde kullanın
+> - ✅ Eğitim ve araştırma amaçlı değerlendirin
+> - ❌ İzinsiz sistemlere saldırmayın
+> - ❌ Kötüye kullanımdan sorumluluk size aittir
